@@ -1,0 +1,8 @@
+pyaudio
+openai-whisper
+python-docx
+keyboard
+nltk
+sentence-transformers
+scikit-learn
+pillow
